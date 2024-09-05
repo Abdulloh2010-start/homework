@@ -1,0 +1,38 @@
+.a1{
+    background-color: rgb(35, 95, 173);
+    border: 3px solid red;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.a2{
+    color: brown;
+}
+
+.a3{
+    color: red;
+}
+
+.a4{
+    color: yellow;
+}
+
+.a5{
+    color: green;
+}
+
+.a6{
+    text-align: center;
+    background-color: yellow;
+}
+
+.a7{
+    background-color: rgb(27, 225, 27);
+    width: 200px;
+    height: 30px;
+}
+
+.a8{
+    width: 1500px;
+    height: 700px;
+}
